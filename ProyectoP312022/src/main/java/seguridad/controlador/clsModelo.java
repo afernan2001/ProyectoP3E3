@@ -27,11 +27,11 @@ public class clsModelo {
     }
     
 
-    public int fGetId_modulo() {
+    public int fGetid_modulo() {
         return piId_modulo;
     }
 
-    public void fSetId_modulo(int piId_modulo) {
+    public void fSetid_modulo(int piId_modulo) {
         this.piId_modulo = piId_modulo;
     }
 
